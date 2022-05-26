@@ -1,5 +1,15 @@
 .Header {
-    background-color: aqua;
-    border-bottom: 1em;
-    border-color: black;
+    background-color: fuchsia;
+    height: 6em;
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    height: 100px;
+    margin-top: -1vw;
+    left: 50%;
+
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    
+
 }
