@@ -1,15 +1,17 @@
 .Header {
     background-color: fuchsia;
-    height: 6em;
+    height: 12rem;
     width: 100vw;
     position: relative;
     margin-left: -50vw;
-    height: 100px;
     margin-top: -1vw;
     left: 50%;
 
-    border-bottom-left-radius: 1rem;
-    border-bottom-right-radius: 1rem;
-    
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
 
+.logo{
+    position: relative;
+    margin-top: -3vw;
 }
